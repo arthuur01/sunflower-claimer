@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+mojang/__init__.py
+mojang/_http_client.py
+mojang/_types.py
+mojang/_utils.py
+mojang/api.py
+mojang/client.py
+mojang/errors.py
+mojang.egg-info/PKG-INFO
+mojang.egg-info/SOURCES.txt
+mojang.egg-info/dependency_links.txt
+mojang.egg-info/requires.txt
+mojang.egg-info/top_level.txt
